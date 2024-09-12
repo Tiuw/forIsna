@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Isnataini",
+  "greetingText": "There’s something I’ve been wanting to tell you for a long time...",
+  "text1": "It might sound cliché...",
+  "textInChatBox": "I’ve been holding this feeling inside for a long time, and it’s grown into something so deep and meaningful. The truth is, I’ve fallen completely in love with you, and I can’t keep it to myself any longer.",
+  "sendButtonLabel": "Send",
+  "text2": "I’ve been thinking about this for a while.",
+  "text3": "But I didn’t know the right way to say it...",
+  "text4": "Because you are someone who",
+  "text4Adjective": "Special",
+  "text5Entry": "So,",
+  "text5Content": "I want you to know",
+  "bigTextPart1": "U",
+  "bigTextPart2": "m",
+  "bigTextPart3": "",
+  "wishHeading": "Will you be mine?",
+  "outroText": "I hope you feel the same way...",
+  "replayText": "Click here!.",
+  "outroSmiley": "❤️",
+  "imagePath": "img/fotbar.png",
+  "musicPath": "music/lagu.mp3"
+}
